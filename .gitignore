@@ -2,7 +2,7 @@
 # Eclipse metadata
 .metadata/
 
-.azure-pipelines/
+azure-pipelines.yml
 
 # Server folder
 server/
