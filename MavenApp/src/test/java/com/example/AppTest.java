@@ -7,7 +7,7 @@ public class AppTest {
 
     @Test
     public void additionTest() {
-        assertEquals(5, 2 + 3, "2 + 3 should equal 5");
+        assertEquals(6, 3 + 3, "3 + 3 should equal 6");
     }
 
     @Test
